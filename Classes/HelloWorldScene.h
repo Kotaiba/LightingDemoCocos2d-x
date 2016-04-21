@@ -32,14 +32,7 @@ protected:
     LightEffect *_effect;
     LightEffect *_effect2;
     LightEffect *_effect3;
-    LightEffect *_effect4;
-    LightEffect *_effect5;
-    LightEffect *_effect6;
-    LightEffect *_effect7;
-    LightEffect *_effect8;
-    LightEffect *_effect9;
-    LightEffect *_effect10;
-    LightEffect *_effect11;
+ 
 
     cocos2d::Sprite *_lightSprite;
     Color3B _darkValue;

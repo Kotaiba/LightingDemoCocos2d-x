@@ -114,7 +114,7 @@ bool HelloWorld::init()
     
     
     //keep replacing scene
-    this->runAction(Sequence::create(DelayTime::create(.1),CallFunc::create(CC_CALLBACK_0(HelloWorld::restartS, this)), NULL));
+  //  this->runAction(Sequence::create(DelayTime::create(.1),CallFunc::create(CC_CALLBACK_0(HelloWorld::restartS, this)), NULL));
     
     return true;
 }
